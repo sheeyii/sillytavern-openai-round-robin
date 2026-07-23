@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "host": "localhost",
+  "apiKeys": [],
+  "proxySettings": {
+    "timeout": 30000,
+    "retries": 3
+  }
+}
